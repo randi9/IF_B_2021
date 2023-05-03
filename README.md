@@ -5,6 +5,7 @@
 |-----|------|---------------|
 | 1217050052 | Faikar Moch Tajudin | https://github.com/Fr0faive/TugasOOP_Pilar |
 | 1217050058 | Fiki Aprian | https://github.com/fikiap23/PBO-Teori.git |
+| 1217050070 | Irwanto Danang Bahtiar | https://github.com/DanKoyuki/OOP.git |
 | 1217050074 | Kireina Amani Ridiesto | https://github.com/kireina16ar/PBO.git |
 | 1217050089 | Muhammad Dwiki Septianto | https://github.com/dwiki2409/PBO.git |
 | 1217050097 | Muhammad Ikhsan Nurhalim | https://github.com/ikhsannhlm/Object_Oriented_Programming |
