@@ -13,6 +13,7 @@
 | 1217050075 | M Dzafadhlan F Muzakki | https://github.com/dzafadhlan/PBO.git|
 | 1217050076 | M. Hasbi Hasbullah | https://github.com/mhmdhasbi/Tugas-PBO.git |
 | 1217050078 | Megan Medellin | https://github.com/meganmedellin/Tugas-OOP |
+| 1217050081 | Mochammad Rizky Ramadhani| https://github.com/Mokyra18/PBO |
 | 1217050085 | Muhamad Iqbal fauzi | https://github.com/MiqbalF2021/pemrograman-berorientasi-object.git |
 | 1217050089 | Muhammad Dwiki Septianto | https://github.com/dwiki2409/PBO.git |
 | 1217050091 | Muhammad Faisal | https://github.com/faisalach/teori_pbo |
@@ -20,6 +21,7 @@
 | 1217050096 | Muhammad gifa algifari | https://github.com/gifaalgifari/Tugas-PBO.git |
 | 1217050098 | Muhammad Kemal Pasha | https://github.com/mkp-kemal/PBO/tree/main/TugasImplementasi |
 | 1217050099 | Muhammad Naufal Muthahhari | https://github.com/blebeb01/PBO-teori |
+
 
 
 
