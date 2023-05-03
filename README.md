@@ -14,13 +14,18 @@
 | 1217050070 | Irwanto Danang Bahtiar | https://github.com/DanKoyuki/OOP.git |
 | 1217050074 | Kireina Amani Ridiesto | https://github.com/kireina16ar/PBO.git |
 
+
+
+
 | 1217050075 | M Dzafadhlan F Muzakki | https://github.com/dzafadhlan/PBO.git|
 
 
 
 
 | 1217050076 | M. Hasbi Hasbullah | https://github.com/mhmdhasbi/Tugas-PBO.git |
+| 1217050078 | Megan Medellin | https://github.com/meganmedellin/Tugas-OOP |
 | 1217050085 | Muhamad Iqbal fauzi | https://github.com/MiqbalF2021/pemrograman-berorientasi-object.git |
+
 
 | 1217050089 | Muhammad Dwiki Septianto | https://github.com/dwiki2409/PBO.git |
 | 1217050091 | Muhammad Faisal | https://github.com/faisalach/teori_pbo |
