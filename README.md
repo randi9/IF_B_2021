@@ -15,12 +15,14 @@
 | 1217050078 | Megan Medellin | https://github.com/meganmedellin/Tugas-OOP |
 | 1217050081 | Mochammad Rizky Ramadhani| https://github.com/Mokyra18/PBO |
 | 1217050085 | Muhamad Iqbal fauzi | https://github.com/MiqbalF2021/pemrograman-berorientasi-object.git |
+| 1217050086 | Muhamad Randi Septiansah | https://github.com/randi9/tugas_pbo.git |
 | 1217050089 | Muhammad Dwiki Septianto | https://github.com/dwiki2409/PBO.git |
 | 1217050091 | Muhammad Faisal | https://github.com/faisalach/teori_pbo |
 | 1217050097 | Muhammad Ikhsan Nurhalim | https://github.com/ikhsannhlm/Object_Oriented_Programming |
 | 1217050096 | Muhammad gifa algifari | https://github.com/gifaalgifari/Tugas-PBO.git |
 | 1217050098 | Muhammad Kemal Pasha | https://github.com/mkp-kemal/PBO/tree/main/TugasImplementasi |
 | 1217050099 | Muhammad Naufal Muthahhari | https://github.com/blebeb01/PBO-teori |
+|
 
 
 
